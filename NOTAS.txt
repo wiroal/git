@@ -1,2 +1,4 @@
 Tutorial en Yotutube: https://www.youtube.com/watch?v=HiXLkL42tMU
-Comandos clave
+Comandos git 
+    git status (permite ver el proyeto)
+    
