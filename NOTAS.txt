@@ -20,3 +20,6 @@ pip install missingno
 pip install sklearn
 pip install statsmodels
 pip install seaborn
+
+CUSO CSS3 
+https://www.udemy.com/course/css3-curso-completo/?couponCode=OCTUBRE21DESC
