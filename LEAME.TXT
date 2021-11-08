@@ -1,0 +1,2 @@
+Este repositorio será usado para el curso de Python Convenio JEP - UNAL
+Esta prueba permite confirmar la comunicación entre la maquina local y el repsitorio
