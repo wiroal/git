@@ -20,3 +20,6 @@ pip install missingno
 pip install sklearn
 pip install statsmodels
 pip install seaborn
+
+# EXTENSION BOOTSTRAP 4
+
