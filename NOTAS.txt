@@ -21,5 +21,10 @@ pip install sklearn
 pip install statsmodels
 pip install seaborn
 
+<<<<<<< HEAD
 # EXTENSION BOOTSTRAP 4
 
+=======
+CUSO CSS3 
+https://www.udemy.com/course/css3-curso-completo/?couponCode=OCTUBRE21DESC
+>>>>>>> 88f9c680c7d376a95be17995725ca959a804c5b7
