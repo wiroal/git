@@ -1,0 +1,12 @@
+# Comandos para sincronizar
+
+git status
+git add *
+git commit -m "nombre-del-comit"
+git push origin master
+git pull
+
+# LUEGO DE TRABAJAR EN EL LOCAL EJECUTAMOS
+git add *
+git commit -m "nombre-del-commit"
+git push origin master
