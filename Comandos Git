@@ -1,6 +1,7 @@
 # Comandos para sincronizar
 
 git status
+git show 
 git add *
 git commit -m "nombre-del-comit"
 git push origin master
