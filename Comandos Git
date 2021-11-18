@@ -16,4 +16,5 @@ git push origin master
     1) ssh-keygen -t rsa -b 4096 -C “tu_email@gmail.com” (Crea la llave, sigua el procedimiento)
     2) eval $(ssh-agent -s) (Revisa que esté cooriendo)
     3) ssh-add ~/.ssh/id_rsa (Agrega la llave privada a Git)
-    4) vi ~/.ssh/id_rsa.pub (copia la llave publica y la pega en github)
+    4) Ssh agregar start-ssh-agent.cmd
+    5) vi ~/.ssh/id_rsa.pub (copia la llave publica y la pega en github)
