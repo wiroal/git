@@ -21,4 +21,15 @@ git push origin master
     6) acepta la invitación que le envian en el sitio de github
     7) copia el codigo ssh y lo pega en la terminal
        git clone git@github.com:carlosjimenez88M/EDA_Course.git
+
+# COMANDOS PARA CREAR RAMAS GIT POR CONSOLA
+# Tomado de: https://desarrolloweb.com/articulos/trabajar-ramas-git.html
+
+1. git branch (me permite ver donde estoy)
+2. git branch wiroal (creo la rama wiroal)
+3. git show-branch (ver las ramas)
+4. git checkout wiroal (me permite ir a la rama que cree)
+5. git push -u origin wiroal (deberia dejarme subir este archivo a mi rama)
+6. git clone --branch wiroal https://github.com/carlosjimenez88M/EDA_Course.git
+7. o git clone -b wiroal https://github.com/carlosjimenez88M/EDA_Course.git
        
