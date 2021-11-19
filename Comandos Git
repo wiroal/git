@@ -31,5 +31,5 @@ git push origin master
 4. git checkout wiroal (me permite ir a la rama que cree)
 5. git push -u origin wiroal (deberia dejarme subir este archivo a mi rama)
 6. git clone --branch wiroal https://github.com/carlosjimenez88M/EDA_Course.git
- 
+7. o git clone -b wiroal https://github.com/carlosjimenez88M/EDA_Course.git
        
